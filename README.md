@@ -10,8 +10,8 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 * Help communicate open science activities and efforts within NOAA Fishieries.
 * Support and amplify NMFS Open Science user groups.
 * Facilitate collaboration on "best practices", "report writing templates", "package templates", etc. tailored to NOAA Fisheries applications.
-* Help science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
-[Federal Data Strategy](https://strategy.data.gov/).
+* Help science teams fulfil NOAA Open Science mandates: [DOC Open Source Code Policy](https://www.commerce.gov/about/policies/source-code), [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
+[Federal Data Strategy](https://strategy.data.gov/), and the [Federal Open Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
 
 **Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS R User Group GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-SOP/NMFS%20R%20UG%20GitHub%20Guidelines%20latest.pdf)
 
