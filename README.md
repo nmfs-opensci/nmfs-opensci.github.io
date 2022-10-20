@@ -13,7 +13,7 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 * Help science teams fulfil NOAA Open Science mandates: [DOC Open Source Code Policy](https://www.commerce.gov/about/policies/source-code), [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
 [Federal Data Strategy](https://strategy.data.gov/), and the [Federal Open Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
 
-**Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS Open Science GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-SOP/)
+**Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS Open Science GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-SOP/) --- [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=)
 
 ## Open Science at NOAA Fisheries
 
