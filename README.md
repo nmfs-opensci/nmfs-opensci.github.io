@@ -3,15 +3,15 @@
 
 <a href="https://nmfs-opensci.github.io/"><img align="right" src="https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png" width="40%" margin="100"></a>
 
-The overarching vision of NMFS Open Science is to support scientific researchers within NOAA Fisheries in adopting of reproducible scientific workflows
-and platforms, facilitate collaboration across offices and regions in shared scientific data science tasks, and support open science, open data and open source communities and initiatives with NOAA Fisheries.
+The overarching vision of NMFS Open Science is to support scientists, developers, resource managers and policy analysts within NOAA Fisheries (NMFS) in fulfilling NOAA’s Open Science mandates: [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), [DOC Open Source Code Policy](https://www.commerce.gov/about/policies/source-code), and the [Federal Open Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf).  
 
-* Support the development and sharing of training resources.
-* Help communicate open science activities and efforts within NOAA Fishieries.
-* Support and amplify NMFS Open Science user groups.
-* Facilitate collaboration on "best practices", "report writing templates", "package templates", etc. tailored to NOAA Fisheries applications.
-* Help science teams fulfil NOAA Open Science mandates: [DOC Open Source Code Policy](https://www.commerce.gov/about/policies/source-code), [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
-[Federal Data Strategy](https://strategy.data.gov/), and the [Federal Open Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
+Delivering on this ambitious vision requires actively supporting staff in transforming to reproducible workflows and work products that will empowtimely, transparent, and accessible data-driven science and decision-making. Such transformation calls for both increased collaboration across offices and regions towards shared scientific data science tasks and expanded support of open science, open data, and open source communities and initiatives within NOAA Fisheries.
+
+* Support Open Science and Open Data literacy across NOAA Fisheries
+* Identify staff training needs and facilitate access to this training (via our partners, advertising events, and organizing trainings)
+* Support and amplify NMFS Open Science user groups and communities
+* Facilitate collaboration and exchange on open science tools and products
+* Identify technical and administrative barriers that staff face in transitioning to open science and take a leadership role in finding and implementing solutions
 
 **NMFS Open Sci Resources:** [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) &#10070; [Using GitHub at NMFS](https://nmfs-opensci.github.io/GitHub-SOP/) &#10070; [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=) &#10070; [NMFS GitHub orgs](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs)
 
