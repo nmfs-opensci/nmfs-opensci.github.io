@@ -13,7 +13,7 @@ Delivering on this ambitious vision requires actively supporting staff in transf
 * Facilitate collaboration and exchange on open science tools and products
 * Identify technical, administrative and other barriers that staff face in transitioning to open science and take a leadership role in finding and implementing solutions
 
-**NMFS Open Sci Resources:** [Vision](https://nmfs-opensci.github.io/content/vision.html) &#10070; [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) &#10070; [Using GitHub at NMFS](https://nmfs-opensci.github.io/GitHub-SOP/) &#10070; [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=) &#10070; [NMFS GitHub orgs](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs)
+**NMFS Open Sci Resources:** [Vision](https://nmfs-opensci.github.io/content/vision.html) &#10070; [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) &#10070; [Using GitHub at NMFS](https://nmfs-opensci.github.io/GitHub-Guide/) &#10070; [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=) &#10070; [NMFS GitHub orgs](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs)
 
 ## Open Science at NOAA Fisheries
 
