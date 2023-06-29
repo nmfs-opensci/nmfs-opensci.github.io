@@ -1,6 +1,6 @@
 # NMFS Open Science visioning document
 
-*Prepared by Eli Holmes (NMFS Open Science lead) with help and review from Christine Stawitz (FIMS), Kathryn Doering (FIT), Josh London (AFSC, NMFS R UG), Molly Stevens (SEFSC), Amanda Stanley (PIFSC), Eric Ward (NWFSC) and Diana Dishman (WCRO)*
+*Prepared by Eli Holmes (NMFS Open Science lead) with help and review from Christine Stawitz (FIMS), Kathryn Doering (FIT), Josh London (AFSC, NMFS R UG), Molly Stevens (SEFSC), Amanda Bradford (PIFSC), Eric Ward (NWFSC) and Diana Dishman (WCRO)*
 
 The overarching vision of NMFS Open Science is to support scientists, developers, resource managers and policy analysts within NOAA Fisheries (NMFS) in fulfilling NOAA’s Open Science mandates: NOAA Data Strategy, NOAA Fisheries Data Vision, DOC Open Source Code Policy, Federal Data Strategy, and the Federal Open Access Memo. 
 
@@ -91,7 +91,7 @@ Molly Stevens (SEFSC, 2022 NMFS Openscapes mentor)
 
 Emily Markowitz (AFSC, 2021-22 NMFS Openscapes mentor)
 
-Amanda Stanley (PIFSC, 2022 NMFS Openscapes mentor)
+Amanda Bradford (PIFSC, 2022 NMFS Openscapes mentor)
 
 Adyan Rios (SEFSC, 2022 NMFS Openscapes mentor)
 
