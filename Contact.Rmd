@@ -1,0 +1,12 @@
+---
+title: NMFS Open Science staff
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: false
+---
+
+**NMFS Open Science staff** [Eli Holmes](https://github.com/eeholmes), Ph.D. (lead) and [Jon Peake](https://github.com/jonpeake)
+
+| <iframe style="height:300px; width:400px;" src="https://eeholmes.github.io"></iframe> | <iframe style="height:300px; width:400px;" src="https://peakeecology.science/"></iframe> |
+|:---:|:---:|

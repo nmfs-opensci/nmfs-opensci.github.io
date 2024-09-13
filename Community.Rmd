@@ -1,0 +1,19 @@
+---
+title: "Community"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+See the [NMFS Open Science internal website](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/open-science) (NOAA only) for the full list of Open Science communities across NOAA Fisheries. The following communities provide much of the leadership and direction for NMFS Open Science activities.
+
+| [NMFS Openscapes](https://nmfs-openscapes.github.io) | [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) | [NOAA Fisheries Integrated Modeling System](https://noaa-fims.github.io/) | [NMFS R User Group](https://nmfs-opensci.github.io/NMFS-R-UG/) |
+| :------: | :----: | :----: | :----: |
+| <a href="https://nmfs-openscapes.github.io"><img align="center" src="https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-openscapes-logo.png" width="100%"></a> | <a href="https://noaa-fisheries-integrated-toolbox.github.io/"><img align="center" src="https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/FIT_graphics/main/FIT_logo/logo_pngs/FIT_logo_2022_color.png" width="75%"></a> | <a href="https://noaa-fims.github.io/"><img align="center" src="https://noaa-fims.github.io/assets/img/logo.png" width="100%"></a> | <a href="https://nmfs-opensci.github.io/NMFS-R-UG/"><img align="center" src="https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-r-ug-logo.png" width="75%"></a> |
+| Openscapes’ training helps teams transition to robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. | The NOAA Fisheries Integrated Toolbox (NOAA FIT) is an interdisciplinary, web-based portal of operational tools. | The NOAA Fisheries Integrated Modeling System is designed to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling. | The NMFS R User Group supports R users across NOAA Fisheries. |
+| <a href="https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/home"><img align="center" src="images/github-enterprise.png" width="100%"></a> | <a href=""><img align="center" src="images/posit-connect.jpg" width="75%"></a> | <a href="https://github.com/nmfs-ost"><img align="center" src="images/noaa.png" width="100%"></a> |  |
+| The GitHub Governance Team is a collaborative science end-user and IT admin team that governs GitHub Enterprise at NMFS. | The Posit Connect Group manages and governs our Posit Connect instance. | Data scientists at Office of Science and Technology lead a variety of data science and Open Science trainings. |  |

@@ -1,0 +1,37 @@
+name: "."
+title: "NOAA Open Science"
+description: |
+  Open Science Community and Resources at NOAA Fisheries
+favicon: "favicon.ico"
+output_dir: "docs"
+base_url: https://nmfs-opensci.github.io
+exclude: ["CODE_OF_CONDUCT.md", "Disclaimer.md", "LICENSE.md"]
+navbar:
+  logo: 
+    image: images/nmfs-opensci-logo.png
+  search: false
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Calendar"
+      href: Calendar.html
+    - text: "Community"
+      href: Community.html
+    - text: "JupyterHub"
+      href: JupyterHub.html
+    - text: "History"
+      href: history.html
+    - text: "Contact"
+      href: Contact.html
+    - icon: fab fa-github
+      href: https://github.com/nmfs-opensci
+theme: css/nmfs-palette-theme.css
+output:
+  distill::distill_article:
+    includes:
+      in_header:
+      - _header.html
+collections:
+  posts: 
+    categories: true
+    share: [twitter, linkedin]

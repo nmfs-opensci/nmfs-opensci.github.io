@@ -1,0 +1,29 @@
+---
+title: JupyterHub
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: false
+    toc_depth: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+NMFS Open Science is partnering with [Openscapes](https://openscapes.org/) to provide a JupyterHub to  a JupyterHub built for NASA Cryosphere communities in partnership with the International Interactive Computing Collaboration 2i2c. Launched in October 2022, the CryoCloud cloud-computing projects aim to establish a curated interactive computing platform and develop Cryosphere community expertise in open-soured and cloud-based platforms. The intention is to transition a NASA community into the cloud while discovering the needs and overall best practices for making this transition.
+
+The IDE served to users with support for the notebook format, over 40 programming languages, interactive data visualization tools, and a friendlier interface to HPC and cloud computing systems.
+
+“JupyterHub brings the power of notebooks to
+groups of users. It gives users access to
+computational environments and resources
+without burdening the users with installation
+and maintenance tasks. Users - including
+students, researchers, and data scientists - can
+get their work done in their own workspaces
+on shared resources which can be managed
+efficiently by system administrators.”
+
+
+Openscapes supports organizations that are starting to explore cloud computing by partnering with [2i2c](https://2i2c.org/), who design and administer a global network of community hubs. Openscapes Hubs provide a place for people to teach workshops and experiment with cloud-based workflows.
